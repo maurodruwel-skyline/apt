@@ -1,14 +1,14 @@
 Package: chp-vibration
-Version: 1.0.9
+Version: 1.0.10
 Architecture: all
 Depends: python3
 Maintainer: Mauro Druwel <mauro.druwel@skyline.be>
 Priority: optional
 Section: base
-Filename: pool/main/c/chp-vibration/chp-vibration_1.0.9_all.deb
-Size: 8194
-SHA256: 9ccb0e3ee3b23b68eda210eb909e3bcc7879548f1aa2511e59858e6217abf120
-SHA1: 6c5f095a625a674290ae26921e9d3961b1dc3a25
-MD5sum: 1c5fcc62b0ed443ce37dd91c8fec25da
+Filename: pool/main/c/chp-vibration/chp-vibration_1.0.10_all.deb
+Size: 8200
+SHA256: a10f52f20197757156853e8e2b2d01966c4941e3a65a062a18468796ee5b9e0d
+SHA1: 93248b4d5f98062f5bb0437620d9211312952119
+MD5sum: 97fa28e1fadee8b42cb29db5239328f7
 Description: CHP Vibration Monitoring
 

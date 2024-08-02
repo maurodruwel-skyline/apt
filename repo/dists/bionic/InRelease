@@ -1,0 +1,54 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Codename: bionic
+Date: Fri, 02 Aug 2024 11:26:43 UTC
+Architectures: amd64 i386 armhf
+Components: main
+Description: maurodruwel-skyline/apt
+MD5Sum:
+ d41d8cd98f00b204e9800998ecf8427e 0 main/binary-amd64/Packages
+ 7029066c27ac6f5ef18d660d5741979a 20 main/binary-amd64/Packages.gz
+ 6e0c2e50f8a36166374c279f1c145f59 73 main/binary-amd64/Release
+ d41d8cd98f00b204e9800998ecf8427e 0 main/binary-i386/Packages
+ 7029066c27ac6f5ef18d660d5741979a 20 main/binary-i386/Packages.gz
+ 676805cdcdcd224b6c45407300ff9389 72 main/binary-i386/Release
+ d41d8cd98f00b204e9800998ecf8427e 0 main/binary-armhf/Packages
+ 7029066c27ac6f5ef18d660d5741979a 20 main/binary-armhf/Packages.gz
+ 56b336516323fcbd9968074aac0843e7 73 main/binary-armhf/Release
+SHA1:
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/binary-amd64/Packages
+ 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/binary-amd64/Packages.gz
+ fe974619912be74f1612998a4913d895de29aaeb 73 main/binary-amd64/Release
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/binary-i386/Packages
+ 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/binary-i386/Packages.gz
+ c53535221621c4713c78129d2285faf138e7ec89 72 main/binary-i386/Release
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/binary-armhf/Packages
+ 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/binary-armhf/Packages.gz
+ 2a37ce4575eb4dbecc0e6382d18128ba4f7a0652 73 main/binary-armhf/Release
+SHA256:
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/binary-amd64/Packages
+ 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/binary-amd64/Packages.gz
+ c9897220beb618d215e1c64f47b9a3ae50e06a6567b0d46aaa88bb680de3dd70 73 main/binary-amd64/Release
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/binary-i386/Packages
+ 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/binary-i386/Packages.gz
+ bf8f738e492e3e7db7504dd6cc6d50ba752f1ec7cb1770da6318a5140627ffe6 72 main/binary-i386/Release
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/binary-armhf/Packages
+ 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/binary-armhf/Packages.gz
+ 83253aacca82ee3f67100df91dbb0cf88a58614c718d122577333c9421bc8935 73 main/binary-armhf/Release
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEEjJZFf4Z9f3anu0oLYARE27CJivoFAmaswnMACgkQYARE27CJ
+ivoHrxAA3OVyC+Uupt/nv7rnbQu36iX/aaoObt3uoMShiJh/jHjJzmW9OzR4DQHU
+Xu5oqNzpdHLu0qErAxofGYEu7hf0fswcPsGMIlRFudG+g0KE+aZr5Op4NdMq6+84
+Bv0uwquj6JQERIgGJ5xwm3QGHuibE8KvTZnjebrGb5RpSPdXy/LFsohSvjQv5Jhd
+8/hhohmsZv4/O2eTztw7Xj2fJ1HLixPmPpN/Xp7ictvvW1z9wf5tanTLg1Az4gIP
+DHN/4dnBB7qP4c+8A44TU9NB0D4bAF3zMQMloZVyyCU8+jIV6O2gveAOaMkEgYbe
+fOZwEYqCnJYTR3wNcLn18+bxg1yjSzBkXml5RyXke823g5hC6USqzL0UuNu2NVHz
+wZ9eyHA3/l6Ji7bHlLreTQZRF8q3vrSKpqCd8Df1gb8dMVIAHfznIHPZiDe4hRqK
+yKAIhrRRiTJ1SB9mzSdfFs2IekYzjVotAgfewYeJO6av04zk4wcAs9PgaHXc4H3U
+nryA7zcMwOErJYvpNOrMLhU9H0JQQYVPQQPWihIqJQe+EMzNzbAuJhwPlsIGovnV
+gxOItu1oklAxan71XC9P1TtDF1NqkWhxnxZoI6rvxyWJOxiOzIoVluyY507LQcLd
+NQhOa0wEqtyNUol/WJZMPLHubBgEZ+/OyUACqy5SJTbUz7tJ9fg=
+=v2zo
+-----END PGP SIGNATURE-----

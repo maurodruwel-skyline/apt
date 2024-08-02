@@ -1,0 +1,35 @@
+Codename: bullseye
+Date: Fri, 02 Aug 2024 11:26:44 UTC
+Architectures: amd64 i386 armhf
+Components: main
+Description: maurodruwel-skyline/apt
+MD5Sum:
+ dcc3ddeca988e2ce77a5e037975625a8 432 main/binary-amd64/Packages
+ 9489f4325d21cdc03ed1816ef72be095 325 main/binary-amd64/Packages.gz
+ 6e0c2e50f8a36166374c279f1c145f59 73 main/binary-amd64/Release
+ dcc3ddeca988e2ce77a5e037975625a8 432 main/binary-i386/Packages
+ 9489f4325d21cdc03ed1816ef72be095 325 main/binary-i386/Packages.gz
+ 676805cdcdcd224b6c45407300ff9389 72 main/binary-i386/Release
+ dcc3ddeca988e2ce77a5e037975625a8 432 main/binary-armhf/Packages
+ 9489f4325d21cdc03ed1816ef72be095 325 main/binary-armhf/Packages.gz
+ 56b336516323fcbd9968074aac0843e7 73 main/binary-armhf/Release
+SHA1:
+ d04035a809e0a168a1e8f16c42c70e64f62eb1c0 432 main/binary-amd64/Packages
+ ff852951c28cf6a0eca1cc28360437368ecc453d 325 main/binary-amd64/Packages.gz
+ fe974619912be74f1612998a4913d895de29aaeb 73 main/binary-amd64/Release
+ d04035a809e0a168a1e8f16c42c70e64f62eb1c0 432 main/binary-i386/Packages
+ ff852951c28cf6a0eca1cc28360437368ecc453d 325 main/binary-i386/Packages.gz
+ c53535221621c4713c78129d2285faf138e7ec89 72 main/binary-i386/Release
+ d04035a809e0a168a1e8f16c42c70e64f62eb1c0 432 main/binary-armhf/Packages
+ ff852951c28cf6a0eca1cc28360437368ecc453d 325 main/binary-armhf/Packages.gz
+ 2a37ce4575eb4dbecc0e6382d18128ba4f7a0652 73 main/binary-armhf/Release
+SHA256:
+ b5cb97ccb6e17f3b85e01ec53441de0a03a0405c6ef4cb4f465b17c8456a3f2c 432 main/binary-amd64/Packages
+ c6cb9d108ad286f82d7e3d1ffffc55b019408e79cf1f5fdf8e584e6a7db6e569 325 main/binary-amd64/Packages.gz
+ c9897220beb618d215e1c64f47b9a3ae50e06a6567b0d46aaa88bb680de3dd70 73 main/binary-amd64/Release
+ b5cb97ccb6e17f3b85e01ec53441de0a03a0405c6ef4cb4f465b17c8456a3f2c 432 main/binary-i386/Packages
+ c6cb9d108ad286f82d7e3d1ffffc55b019408e79cf1f5fdf8e584e6a7db6e569 325 main/binary-i386/Packages.gz
+ bf8f738e492e3e7db7504dd6cc6d50ba752f1ec7cb1770da6318a5140627ffe6 72 main/binary-i386/Release
+ b5cb97ccb6e17f3b85e01ec53441de0a03a0405c6ef4cb4f465b17c8456a3f2c 432 main/binary-armhf/Packages
+ c6cb9d108ad286f82d7e3d1ffffc55b019408e79cf1f5fdf8e584e6a7db6e569 325 main/binary-armhf/Packages.gz
+ 83253aacca82ee3f67100df91dbb0cf88a58614c718d122577333c9421bc8935 73 main/binary-armhf/Release

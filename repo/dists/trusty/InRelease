@@ -2,7 +2,7 @@
 Hash: SHA512
 
 Codename: trusty
-Date: Fri, 02 Aug 2024 11:26:44 UTC
+Date: Fri, 02 Aug 2024 12:43:56 UTC
 Architectures: amd64 i386 armhf
 Components: main
 Description: maurodruwel-skyline/apt
@@ -38,17 +38,17 @@ SHA256:
  83253aacca82ee3f67100df91dbb0cf88a58614c718d122577333c9421bc8935 73 main/binary-armhf/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEjJZFf4Z9f3anu0oLYARE27CJivoFAmaswnQACgkQYARE27CJ
-ivpylw/+Lpoar/SwQu2EMgdSF3FGL6XW9WkldNCUjDloQLAxV5vaaHo/6qOdySNl
-i/J5ugxJRx7wf6XRQBxgg/nvtYMzamKpsF66HD+1B+WjD5TwLwYnFvWLcGBuiHH8
-JWKO0Vf+nWQ26172z5PjtD6NX1XMm4F41IVuyv7nDWx4WWMUElW/TFDjSHjfdy35
-dNl0yjGvi0175WMYyTIR/D9orNzMEHFz0EUu12lVW7B6a0AT8RwgTcusJudVHa+k
-ely28unwBq+rllcvuE4oPvxmWGL2/qqh50BvqYkCMo+Ie7PsZTLADvOEr6r9yD+U
-Hta/xWktUjai9zMCBbUAZbGAiQaNwFJvql0yGTC8yzmAJwBFn9yvX81nLO35Tbf8
-m6PmV2qhkcOxYDjzh90RNgzEyQ8k7rPp5aItcj58yBDBHnaH2ohI6DhEnl+h1zgk
-81BrbJA7tfOCxJQyUbfTxuEzx3OMo9SnHtQqy2a+rs4b4ZDgPTRbmMKh1vvsU9Nu
-D7JiZ7/5rakcxvGuUZhvRkfYTjddIDRO0b41IdiocdidPsawMNR72Rgp0zTLJsFX
-VAPKMjopb9vaQwGcE4MxvX79e9CQIUrmQ6lS93a8eqek4cwMHnN7OVfHOOunsNYl
-X07XrkfRaWxLAaWHxfcIXncgxmlFrqKPHh0E/ntNkoAqNr+c1QY=
-=9/js
+iQIzBAEBCgAdFiEEjJZFf4Z9f3anu0oLYARE27CJivoFAmas1I0ACgkQYARE27CJ
+ivrN/BAAiNJ3ox5Ji2f2+hIVVKpdXZQXB2dZLofjktqd8iPewso7p1oW4wdqhxnp
+BpF0f3UCR3/q3asD4jK4U4+VC4/EgbJhR/+gQcJUZuwHvuTZ3i2AyT06aUH/GhQV
+3ZR4Q5JaKRYDkwVXuHOSa9Z6itYRG+KlBiITP2x7/usM9q/V4tctg1wsyhbmlodq
+fCL0OBdgE27UZyY9TFwmN3GJwtyVDJSNWK27uBaXTudmt3/SgQrE6bn8SFw1Hpps
+9Ut68tCIvE0E0c0r7o7cfp3YUR/ok6Tek33p+JKksQNAQGU+kF+niCPmuUYzqtXl
+b/nWR/IftLF3aGGSTvxrNe/3QK0yM9n2/PqhY2joUeyzy/6pnmzTX3H35ssdy3Tk
+0W8B6lwaBbVxvchENXdGbaU2LL+G44H7sVlMj+aM1jxBzMMizsIrtPKFgn39Q1XD
+dnrjCrwwY7gGFAenwXFEydRCsVa8C6gw+cxiSUjuT6/7/QGbFAPuhbKKl8NbpKgX
+KB4U1VZ0HQRoUAZ6NUfe/Mmx2yTjhEPwPVTShMt79BbCl/WsLgwAFOytvPrUr9oK
+d+wvVvM43WTeZAG1t0mac3t5LmIFs+tMFkpSuhmolO8z2rKBfUrE3+dvtnnL1wBz
+fx9BFy638EwXggYqy/H+B8ovIxCBjoXZoWpx5/Xh7QeM6txW9Hw=
+=lxNt
 -----END PGP SIGNATURE-----
